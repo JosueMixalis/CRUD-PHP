@@ -32,11 +32,11 @@ Este proyecto de administración de autos fue desarrollado en PHP y utiliza oper
 
 ### Capturas de Pantalla
 
-!<img src="images/access.png" alt="Captura de Pantalla 1" width="75%">
-!<img src="images/delete_success.png" alt="Captura de Pantalla 1" width="75%">
-!<img src="images/edit_error.png" alt="Captura de Pantalla 1" width="75%">
-!<img src="images/entry.png" alt="Captura de Pantalla 1" width="75%">
-!<img src="images/redireccion.png" alt="Captura de Pantalla 1" width="75%">
-!<img src="images/sql_entry.png" alt="Captura de Pantalla 1" width="75%">
-!<img src="images/validation.png" alt="Captura de Pantalla 1" width="75%">
+!<img src="Images/access.png" alt="Captura de Pantalla 1" width="75%">
+!<img src="Images/delete_success.png" alt="Captura de Pantalla 2" width="75%">
+!<img src="Images/edit_error.png" alt="Captura de Pantalla 3" width="75%">
+!<img src="Images/entry.png" alt="Captura de Pantalla 4" width="75%">
+!<img src="Images/redireccion.png" alt="Captura de Pantalla 5" width="75%">
+!<img src="Images/sql_entry.png" alt="Captura de Pantalla 6" width="75%">
+!<img src="Images/validation.png" alt="Captura de Pantalla 7" width="75%">
 

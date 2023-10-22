@@ -38,5 +38,5 @@ Este proyecto de administración de autos fue desarrollado en PHP y utiliza oper
 !<img src="Images/entry.png" alt="Captura de Pantalla 4" width="75%">
 !<img src="Images/redireccion.png" alt="Captura de Pantalla 5" width="75%">
 !<img src="Images/sql_entry.png" alt="Captura de Pantalla 6" width="75%">
-!<img src="Images/validation.png" alt="Captura de Pantalla 7" width="75%">
+!<img src="Images/validation_error.png" alt="Captura de Pantalla 7" width="75%">
 

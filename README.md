@@ -32,8 +32,11 @@ Este proyecto de administración de autos fue desarrollado en PHP y utiliza oper
 
 ### Capturas de Pantalla
 
-_Inserta aquí algunas capturas de pantalla de la aplicación para mostrar cómo se ve la interfaz de usuario y las diferentes funcionalidades._
+!<img src="images/access.png" alt="Captura de Pantalla 1" width="75%">
+!<img src="images/delete_success.png" alt="Captura de Pantalla 1" width="75%">
+!<img src="images/edit_error.png" alt="Captura de Pantalla 1" width="75%">
+!<img src="images/entry.png" alt="Captura de Pantalla 1" width="75%">
+!<img src="images/redireccion.png" alt="Captura de Pantalla 1" width="75%">
+!<img src="images/sql_entry.png" alt="Captura de Pantalla 1" width="75%">
+!<img src="images/validation.png" alt="Captura de Pantalla 1" width="75%">
 
----
-
-¡Esperamos que disfrutes usando esta aplicación de administración de autos! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros.

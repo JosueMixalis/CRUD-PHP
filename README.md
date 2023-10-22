@@ -26,7 +26,7 @@ Este proyecto de administración de autos fue desarrollado en PHP y utiliza oper
 
 1. Clona este repositorio en tu servidor local.
 2. Crea una base de datos MySQL llamada `autos`.
-3. Crea una tabla con las columnas autos_id como primary key, make,model,year.mileage.
+3. Crea una tabla con las columnas autos_id como primary key, make,model,year(numero),mileage(numero).
 4. Configura la conexión a la base de datos en el archivo `pdo.php`.
 5. Accede a la aplicación a través de tu navegador web visitando `http://localhost/tu-carpeta-de-proyecto`.
 

@@ -13,7 +13,7 @@ Este proyecto de administración de autos fue desarrollado en PHP y utiliza oper
 
 - **PHP:** El backend de la aplicación está desarrollado en PHP, un lenguaje de scripting ampliamente utilizado para aplicaciones web.
 - **MySQL:** Se utiliza una base de datos MySQL para almacenar la información de los autos.
-- **HTML/CSS:** Para el frontend de la aplicación se han utilizado HTML y CSS para el diseño y la estructura de la página web.
+- **HTML:** Para el frontend de la aplicación se han utilizado HTML para la estructura de la página web .
 - **CRUD:** La aplicación sigue el paradigma CRUD para realizar operaciones en la base de datos.
 
 ### Requisitos del Sistema
